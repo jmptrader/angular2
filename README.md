@@ -1,5 +1,6 @@
 # Angular2
 Template for Angular2 UI applications
+
 Steps to use the template:
 
 1. Install NodeJS in your development machine.
