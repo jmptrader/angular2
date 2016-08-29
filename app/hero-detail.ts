@@ -1,5 +1,6 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input,OnInit } from '@angular/core';
 import { ActivatedRoute, Params } from '@angular/router';
+import { Hero } from './hero';
 import { HeroService } from './hero.service';
 
 
